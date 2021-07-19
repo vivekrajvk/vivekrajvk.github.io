@@ -4,7 +4,7 @@ I am looking for research opportunities in industry/ academia in the field of Co
 
 My research interests include video analysis and video processing applications. I studied B.E (CSE) and M.Tech (Computer Engineering) from Visvesvaraiah Technological University, Belgaum (Karnataka) in the year 2007 and 2012 respectively. Please visit my [LinkedIn Profile](https://www.linkedin.com/in/vivekraj-v-k-1196a536) for further details.
 
-My [DBLP](https://dblp.org/pid/198/9481.html) page. My [Google Scholar](https://scholar.google.com/citations?user=vH-1g5gAAAAJ&hl=en) profile.
+My [DBLP](https://dblp.org/pid/198/9481.html) page. My [Google Scholar](https://scholar.google.com/citations?user=vH-1g5gAAAAJ&hl=en) profile. [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=57194184076)
 
 Please find below the list of publications along with abstract.
 ### Publications
